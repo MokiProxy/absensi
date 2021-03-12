@@ -1,0 +1,13 @@
+[23-Jul-2020 09:51:58 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Writer/Excel2007.php on line 398
+[23-Jul-2020 09:54:13 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Writer/Excel2007/Worksheet.php on line 0
+[23-Jul-2020 09:55:46 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Writer/Excel2007.php on line 398
+[23-Jul-2020 09:57:24 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Writer/Excel2007.php on line 398
+[23-Jul-2020 09:59:26 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Writer/Excel2007.php on line 398
+[23-Jul-2020 10:01:58 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Writer/Excel2007.php on line 398
+[24-Jul-2020 15:27:35 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel.php on line 1110
+[24-Jul-2020 15:30:24 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel.php on line 1110
+[27-Jul-2020 08:35:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/satr3454/public_html/absensi/mokiweb/views/admin/absen/data.php on line 46
+[17-Aug-2020 08:39:28 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Cell.php on line 550
+[17-Aug-2020 08:41:18 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Cell.php on line 550
+[17-Aug-2020 08:42:49 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Writer/Excel2007/Worksheet.php on line 1071
+[17-Aug-2020 08:44:26 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/satr3454/public_html/absensi/mokiweb/libraries/PHPExcel/Writer/Excel2007/Worksheet.php on line 1032
